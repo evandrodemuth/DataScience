@@ -1,1 +1,15 @@
-notes
+ Notes
+==========
+
+
+#Realiza o commit
+git commit -m "First commit"
+
+
+#envia para a branch principal
+git push -u origin master
+
+
+
+
+
